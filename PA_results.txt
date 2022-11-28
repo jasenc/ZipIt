@@ -1,0 +1,352 @@
+City	State	ZipCode
+Willow Grove	PA	19090
+Pittsburgh	PA	15202
+Royersford	PA	19468
+Glenside	PA	19038
+King Of Prussia	PA	19406-3561
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Philadelphia	PA	19130
+Philadelphia	PA	19111
+Philadelphia	PA	19104
+Lansdale	PA	19446-6309
+Philadelphia	PA	19104
+Philadelphia	PA	19145
+Philadelphia	PA	19130
+Philadelphia	PA	19116
+Willow Grove	PA	19090
+Philadelphia	PA	19119-2440
+Philadelphia	PA	19104
+Sinking Spring	PA	19608-1104
+Clarks Summit	PA	18411-9683
+Bensalem	PA	19020
+Philadelphia	PA	19114
+Philadelphia	PA	19127
+Flourtown	PA	19031
+Philadelphia	PA	19104
+Collegeville	PA	19426
+Wallingford	PA	19086-6601
+Trappe	PA	19426
+Philadelphia	PA	19116
+Upper Darby	PA	19082
+Philadelphia	PA	19147
+Bryn Mawr	PA	19010
+Philadelphia	PA	19115-4824
+Philadelphia	PA	19104
+Philadelphia	PA	19128
+Fannettsburg	PA	17221-0176
+Philadelphia	PA	19104
+Garnet Valley	PA	19061
+Bethel	PA	19507
+Lancaster	PA	17603
+Lancaster	PA	17601
+Nottingham	PA	19362
+Glenside	PA	19038
+Philadelphia	PA	19116
+Dallas	PA	18612-8502
+Plymouth Meeting	PA	19462
+Philadelphia	PA	19143
+Lebanon	PA	17042-9734
+Philadelphia	PA	19124-2512
+Millersville	PA	17551-9500
+Narberth	PA	19072
+Allentown	PA	18103-3393
+Warrington	PA	18976
+Chalfont	PA	18914
+Philadelphia	PA	19143
+Downingtown	PA	19335
+Apollo	PA	15613
+Wallingford	PA	19086
+Doylestown	PA	18902-9139
+Philadelphia	PA	19151
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Philadelphia	PA	19128
+Philadelphia	PA	19130
+Philadelphia	PA	19147-5302
+Glenside	PA	19038
+Berwyn	PA	19312
+Downingtown	PA	19335-4113
+Lafayette Hill	PA	19444
+Pipersville	PA	18947-1314
+Philadelphia	PA	19154
+Devon	PA	19333
+Media	PA	19063
+Holmes	PA	19043-1505
+Worthington	PA	16262
+Glen Mills	PA	19342-2272
+Philadelphia	PA	19147
+Phoenixville	PA	19460
+Sewickley	PA	15143
+Philadelphia	PA	19104
+Springfield	PA	19064
+Perkasie	PA	18944
+Wallingford	PA	19086
+Parkesburg	PA	19365
+Philadelphia	PA	19130
+King Of Prussia	PA	19406-2053
+Warrington	PA	18976
+Cochranville	PA	19330
+Bridgeport	PA	19405
+Philadelphia	PA	19106
+Sinking Spring	PA	19608
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Havertown	PA	19083
+Conshohocken	PA	19428
+Wayne	PA	19087-2029
+Upper Darby	PA	19082
+Collegeville	PA	19426-1884
+Havertown	PA	19083
+Feasterville Trevose	PA	19053-3302
+Bensalem	PA	19020
+Philadelphia	PA	19147
+Perkasie	PA	18944
+Bensalem	PA	19020
+Gulph Mills	PA	19406
+Media	PA	19063
+Collegeville	PA	19426-1971
+Sellersville	PA	18960
+Sellersville	PA	18960
+Philadelphia	PA	19124
+Philadelphia	PA	19104
+Upper Darby	PA	19082
+Luzerne	PA	18709
+Philadelphia	PA	19106
+Jenkintown	PA	19046
+Folcroft	PA	19032
+Philadelphia	PA	19124-1033
+Huntingdon Valley	PA	19006
+Boyertown	PA	19512
+Philadelphia	PA	19119
+Bethlehem	PA	18020
+Denver	PA	17517
+Philadelphia	PA	19104
+Philadelphia	PA	19128
+West Chester	PA	19382
+Philadelphia	PA	19154
+Philadelphia	PA	19104
+Philadelphia	PA	19128-2803
+Philadelphia	PA	19137
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Drexel Hill	PA	19026
+Philadelphia	PA	19104
+Philadelphia	PA	19148-3604
+Levittown	PA	19057
+Philadelphia	PA	19104
+Spring Grove	PA	17362
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Sewickley	PA	15143
+Havertown	PA	19083
+Wayne	PA	19087
+Philadelphia	PA	19104
+West Chester	PA	19382
+Phoenixville	PA	19460
+Philadelphia	PA	19128-3123
+Audubon	PA	19403
+North Huntingdon	PA	15642-8313
+Philadelphia	PA	19148-4625
+Nuremberg	PA	18241-0285
+Richboro	PA	18954
+Plymouth Mtng	PA	19462-2525
+Shrewsbury	PA	17361
+Philadelphia	PA	19104
+Lafayette Hill	PA	19444
+Chester Springs	PA	19425
+Glenside	PA	19038
+Philadelphia	PA	19131
+Cheltenham	PA	19012-2023
+Huntingdon Valley	PA	19006-5455
+Philadelphia	PA	19149
+Erdenheim	PA	19038
+Philadelphia	PA	19104
+Macungie	PA	18062
+Philadelphia	PA	19104
+Warrington	PA	18976
+Warrington	PA	18976-1662
+Clifton Heights	PA	19018
+Philadelphia	PA	19135
+Philadelphia	PA	19146
+Lansdale	PA	19446
+Philadelphia	PA	19104
+Reading	PA	19606
+Philadelphia	PA	19146
+Philadelphia	PA	19128
+Philadelphia	PA	19122
+Mifflintown	PA	17059
+Pipersville	PA	18947
+Philadelphia	PA	19104
+Philadelphia	PA	19127
+Philadelphia	PA	19102
+Southampton	PA	18966
+Philadelphia	PA	19152
+Danielsville	PA	18038-9714
+Philadelphia	PA	19104
+Plymouth Meeting	PA	19462
+Lansdale	PA	19446
+West Chester	PA	19382
+Drexel Hill	PA	19026
+Hatboro	PA	19040
+Philadelphia	PA	19128-3025
+Hatfield	PA	19440
+Folcroft	PA	19032
+Philadelphia	PA	19130
+Philadelphia	PA	19148
+Philadelphia	PA	19148
+Philadelphia	PA	19148
+Philadelphia	PA	19104
+East Norriton	PA	19401
+West Chester	PA	19380
+Boothwyn	PA	19061
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Rosemont	PA	19010
+Horsham	PA	19044
+Philadelphia	PA	19104
+Pittsburgh	PA	15221-4407
+Bensalem	PA	19020
+Philadelphia	PA	19128
+Levittown	PA	19057
+Phiadelphia	PA	19130
+Media	PA	19063
+Levittown	PA	19056
+Philadelphia	PA	19104
+Downingtown	PA	19335
+Furlong	PA	18925
+Philadelphia	PA	19104
+Doylestown	PA	18902-1555
+Malvern	PA	19355
+Yardley	PA	19067
+Harleysville	PA	19438
+Pottstown	PA	19464-2983
+Philadelphia	PA	19143
+Drexel Hill	PA	19026-2906
+Philadelphia	PA	19125
+Bala Cynwyd	PA	19004
+Philadelphia	PA	19104
+Secane	PA	19018
+New Holland	PA	17557-1435
+Philadelphia	PA	19104
+Quakertown	PA	18951
+Philadelphia	PA	19104
+Philadelphia	PA	19128
+Linwood	PA	19061
+Philadelphia	PA	19104
+Horsham	PA	19044
+Hamlin	PA	18427
+Philadelphia	PA	19104
+Philadelphia	PA	19148
+Philadelphia	PA	19124
+Philadelphia	PA	19104
+Philadelphia	PA	19119
+Philadelphia	PA	19115
+Harleysville	PA	19438
+Bensalem	PA	19020-4200
+Philadelphia	PA	19104
+Mount Joy	PA	17552-9378
+Newtown	PA	18940
+Philadelphia	PA	19143
+Philadelphia	PA	19149
+Abington	PA	19001
+Holland	PA	18966
+Philadelphia	PA	19128
+Philadelphia	PA	19104
+Shillington	PA	19607
+Philadelphia	PA	19104
+Philadelphia	PA	19135
+Richboro	PA	18954
+Ambler	PA	19002
+Norwood	PA	19074
+Philadelphia	PA	19104
+Lancaster	PA	17603
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Pipersville	PA	18947-9772
+Maple Glen	PA	19002
+Chester Springs	PA	19425
+West Chester	PA	19382
+Warminster	PA	18974
+Richboro	PA	18954
+Hummelstown	PA	17036
+Huntingdon Valley	PA	19006
+Altoona	PA	16601
+Yardley	PA	19067
+Philadelphia	PA	19104
+Middletown	PA	17057
+Philadelphia	PA	19116-2522
+Paoli	PA	19301
+Secane	PA	19018
+Aston	PA	19014-1232
+Philadelphia	PA	19147
+Philadelphia	PA	19104
+Upper Darby	PA	19082
+King Of Prussia	PA	19406
+Philadelphia	PA	19104
+Carlisle	PA	17013
+Perkasie	PA	18944
+Downingtown	PA	19335
+West Chester	PA	19382
+Philadelphia	PA	19104
+Narberth	PA	19072-1729
+Conshohocken	PA	19428
+Bensalem	PA	19020-2109
+Hatfield	PA	19440
+Pottstown	PA	19464
+Philadelphia	PA	19128
+Philadelphia	PA	19104
+Downingtown	PA	19335
+Philadelphia	PA	19106
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Philadelphia	PA	19145
+King Of Prussia	PA	19406
+North Wales	PA	19454-1330
+Philadelphia	PA	19149
+Philadelphia	PA	19104
+Philadelphia	PA	19107
+Audubon	PA	19403-1716
+Philadelphia	PA	19106
+Philadelphia	PA	19136
+Harleysville	PA	19438
+Philadelphia	PA	19104
+Philadelphia	PA	19107
+Camp Hill	PA	17011
+Philadelphia	PA	19104
+Philadelphia	PA	19104
+Royersford	PA	19468
+Newtown	PA	18940
+Philadelphia	PA	19135
+Philadelphia	PA	19104
+Downingtown	PA	19335
+Springfield	PA	19064-3946
+Philadelphia	PA	19104
+Quarryville	PA	17566
+Philadelphia	PA	19104
+Lansdale	PA	19446
+Philadelphia	PA	19139
+Philadelphia	PA	19124
+Bensalem	PA	19020-1916
+Philadelphia	PA	19154
+Philadelphia	PA	19130
+Media	PA	19063-5331
+Allison Park	PA	15101
+Orangeville	PA	17859
+Philadelphia	PA	19104
+Warminster	PA	18974
+Philadelphia	PA	19143
+Boothwyn	PA	19061
+Phoenixville	PA	19460
+Laflin	PA	18705
+Sellersville	PA	18960
+Philadelphia	PA	19134
+Philadelphia	PA	19147
+Millersville	PA	17551
+Philadelphia	PA	19104
+Philadelphia	PA	19143
+Philadelphia	PA	19128
+Berwyn	PA	19312
+Eagleville	PA	19403
